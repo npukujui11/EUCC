@@ -23,8 +23,4 @@ Data sources: Internet
 * Please import data from data.txt into Excel and run it. Only support  Excel import data.
 
 ## Result
-<<<<<<< HEAD
-![Image text]https://github.com/npukujui11/EUCC/blob/master/wan%20you%20te%20xing%20qu%20xian.png
-=======
-https://github.com/npukujui11/EUCC/blob/master/wan%20you%20te%20xing%20qu%20xian.png
->>>>>>> 0d25c1e2b6c0237259c239c2f16b0028ea2f5e67
+![Engine Universal Characteristic Curve]https://github.com/npukujui11/EUCC/blob/master/wan%20you%20te%20xing%20qu%20xian.png
