@@ -16,6 +16,8 @@ open data.txt
 Data Format:  
 | 1 | engine speed (rpm) | engine torque (N/m) | square of engine speed | product of engine speed and torque | square of engine torque | fuel consumption rate (g/h) |  
 Data sources: Internet
+Excel Data Format:
+![Excel Data Format](https://github.com/npukujui11/EUCC/blob/master/excel%E8%A1%A8%E6%A0%BC%E6%A0%BC%E5%BC%8F.png)
 
 ## Description
 * wan you te xing qu xian.png is based on N15T engine data, not data from data.txt. For confidentiality reasons, I cannot provide the N15T data.
